@@ -1,0 +1,5 @@
+{
+  "name": "Karmic ai messenger ",
+  "description": "A WhatsApp-style web messenger built with React and Tailwind CSS, designed to simulate a peer-to-peer network where each client acts as its own server for decentralized communication within a company.",
+  "requestFramePermissions": []
+}
